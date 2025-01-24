@@ -620,7 +620,7 @@ These are the sport kinds supported by the watch:
 The requests described in this section are all sent via `CHAR_DATA2_RW`.
 The responses described in this section are all received via `CHAR_DATA2_N`.
 
-### Pulss
+### Pulses
 
 Like [seen above](#pulses), a similar response gets sent by the watch in this case, the only difference being a distinct command ID of value `0x12`.
 

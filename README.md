@@ -1,10 +1,8 @@
-# Haywatch
-
-> ## Haylou Smart Watch 2 (`LS02`) reverse-engineering project
+# Haylou Smart Watch 2 (`LS02`) reverse-engineering project
 
 Since nothing technical popped up about this watch model on the Internet (only the usual smart-watch articles and some apps), I decided to investigate and document it (its Bluetooth functionality) as deeply as I can.
 
-![Haha](testing.jpg)
+![nice](testing.jpg)
 
 This project contains the following:
 
